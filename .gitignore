@@ -35,3 +35,7 @@ Thumbs.db
 # Vercel & deployment  
 .vercel  
 .vscode/  
+.qodo
+
+# Ignore 'venv' for Python related scraper:
+scripts/venv/
